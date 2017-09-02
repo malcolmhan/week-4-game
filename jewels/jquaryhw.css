@@ -1,0 +1,55 @@
+.header{
+	background-color: orange;
+	color: white;
+	height: 130px;
+	width: 262px;
+}
+
+.paragraph{
+	color: green;
+	background-color: rgba(210,180,140,0.69);
+	height: 375px;
+	width: 409px;
+	
+}
+.leftbox{
+	margin-top: 10px;
+	background-color: rgba(0,128,0,0.77);
+	width: 223px;
+	height: 144px;
+	float: left;
+}
+.rightbox{
+	margin-top: 10px;
+	background-color: lightblue;
+	width: 100px;
+	height: 144px;
+	margin-left: 10px;
+	float: left;
+}
+
+.stones{
+	float: left;
+	margin: 10px;
+	height: 30px;
+}
+.ruby{
+	position: relative;
+	height: 100px;
+	width: 100px; 
+	top: 158px;
+	right:20px;
+}
+.gem{
+	float: left;
+
+	
+}
+.diamond{
+	float: left;
+	
+}
+.green{
+	float: left;
+
+}
